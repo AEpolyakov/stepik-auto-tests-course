@@ -2,3 +2,4 @@ venv/
 .idea/
 *.txt
 recension*
+*__pycache__*
