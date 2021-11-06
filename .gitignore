@@ -1,5 +1,5 @@
 venv/
 .idea/
-*.txt
+blank.txt
 recension*
 *__pycache__*
